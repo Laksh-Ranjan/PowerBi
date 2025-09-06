@@ -1,0 +1,501 @@
+Crime_ID,Date,Crime_Type,Severity,City,Region,Time,Status
+1000,13-05-2023,Theft,Medium,Seattle,East,06:36 PM,Unsolved
+1001,10-11-2023,Assault,High,Boston,South,11:02 AM,Unsolved
+1002,13-12-2023,Theft,Medium,Chicago,North,01:10 AM,Solved
+1003,12-08-2023,Burglary,Medium,Chicago,North,01:03 PM,Unsolved
+1004,03-08-2023,Theft,Medium,San Francisco,South,11:21 AM,Unsolved
+1005,22-11-2023,Homicide,High,New York,East,05:02 AM,Solved
+1006,30-11-2023,Burglary,Medium,San Diego,West,03:56 PM,Solved
+1007,02-09-2023,Theft,Medium,Miami,West,12:58 PM,Unsolved
+1008,09-06-2023,Burglary,Medium,New York,West,07:49 PM,Solved
+1009,10-09-2023,Vandalism,Low,BLANK,East,08:54 PM,Unsolved
+1010,45056,Fraud,Low,Chicago,West,05:45 PM,Solved
+1011,06-05-2023,Homicide,High,San Diego,West,11:13 PM,Solved
+1012,07-11-2023,Burglary,Medium,Miami,North,08:44 PM,Unsolved
+1013,26-10-2023,Homicide,High,Seattle,North,05:19 AM,Unsolved
+1014,15-08-2023,Burglary,Medium,Los Angeles,South,11:43 PM,Solved
+1015,17-02-2023,Homicide,High,Dallas,West,07:52 PM,Unsolved
+1016,10-01-2023,Robbery,Medium,New York,North,07:11 PM,Solved
+1017,10-05-2023,Theft,Medium,Dallas,South,09:12 AM,Solved
+1018,30-06-2023,Theft,Medium,Dallas,West,02:13 PM,Solved
+1019,25-11-2023,Drug Offense,Medium,Dallas,East,05:49 AM,Unsolved
+1020,23-05-2023,Assault,High,Chicago,South,09:20 PM,Solved
+1021,26-07-2023,Burglary,Medium,San Francisco,East,05:43 AM,Unsolved
+1022,27-10-2023,Assault,High,New York,South,11:00 AM,Unsolved
+1023,13-07-2023,Drug Offense,Medium,Chicago,South,06:49 AM,Unsolved
+1024,06-03-2023,Assault,High,Miami,North,09:33 PM,Unsolved
+1025,17-07-2023,Theft,Medium,San Francisco,South,02:05 PM,Solved
+1026,16-07-2023,Fraud,Low,Los Angeles,West,05:40 AM,Unsolved
+1027,24-08-2023,Theft,Medium,Dallas,East,02:50 AM,Unsolved
+1028,20-06-2023,Homicide,High,Chicago,South,09:55 AM,Solved
+1029,04-09-2023,Robbery,Medium,Dallas,North,04:05 PM,Solved
+1030,12-05-2023,Fraud,Low,Dallas,West,04:14 AM,Unsolved
+1031,02-02-2023,Robbery,Medium,San Francisco,West,11:19 PM,Unsolved
+1032,28-01-2023,Robbery,Medium,Dallas,East,10:49 PM,Unsolved
+1033,45132,Fraud,Low,Boston,South,07:14 AM,Unsolved
+1034,22-12-2023,Assault,High,Boston,South,03:31 AM,Unsolved
+1035,09-04-2023,Burglary,Medium,Houston,South,09:49 AM,Solved
+1036,27-12-2023,Drug Offense,Medium,San Diego,North,07:44 AM,Unsolved
+1037,12-03-2023,Homicide,High,Miami,East,01:01 PM,Unsolved
+1038,24-01-2023,Arson,High,Los Angeles,North,07:52 PM,Unsolved
+1039,20-03-2023,Burglary,Medium,San Francisco,West,08:44 AM,Solved
+1040,08-06-2023,Burglary,Medium,San Francisco,North,12:48 AM,Unsolved
+1041,02-09-2023,Drug Offense,Medium,Seattle,North,02:00 AM,Unsolved
+1042,29-05-2023,Homicide,High,Miami,West,12:38 AM,Unsolved
+1043,13-05-2023,Assault,High,Los Angeles,South,08:32 AM,Unsolved
+1044,22-05-2023,Theft,Medium,Chicago,West,02:12 PM,Solved
+1045,10-09-2023,Fraud,Low,San Diego,West,01:50 PM,Unsolved
+1046,04-09-2023,Drug Offense,Medium,San Diego,South,11:23 PM,Unsolved
+1047,31-05-2023,Homicide,High,Boston,West,03:09 PM,Solved
+1048,12-01-2023,Assault,High,Seattle,South,06:53 AM,Solved
+1049,13-02-2023,Theft,Medium,San Francisco,South,08:12 AM,Solved
+1050,06-10-2023,Robbery,Medium,Dallas,North,08:54 AM,Unsolved
+1051,12-09-2023,Robbery,Medium,Boston,#,11:39 AM,Solved
+1052,06-07-2023,Burglary,Medium,San Diego,East,03:12 AM,Unsolved
+1053,30-05-2023,Arson,High,San Francisco,West,04:59 PM,Unsolved
+1054,19-08-2023,Robbery,Medium,Los Angeles,South,02:55 AM,Solved
+1055,11-01-2023,Burglary,Medium,Los Angeles,North,09:00 AM,Solved
+1056,07-05-2023,Theft,Medium,Los Angeles,South,06:26 PM,Unsolved
+1057,18-12-2023,Theft,Medium,Dallas,West,05:47 AM,Unsolved
+1058,07-05-2023,Fraud,Low,Dallas,South,01:34 AM,Unsolved
+1059,12-05-2023,Drug Offense,Medium,Miami,West,03:53 AM,Unsolved
+1060,17-10-2023,Homicide,High,Miami,West,04:55 PM,Solved
+1061,25-05-2023,Homicide,High,Seattle,North,07:43 AM,Solved
+1062,23-01-2023,Burglary,Medium,Miami,East,12:02 PM,Unsolved
+1063,08-08-2023,Burglary,Medium,San Diego,East,08:21 PM,Solved
+1064,05-03-2023,Vandalism,Low,San Diego,South,12:41 PM,Solved
+1065,05-11-2023,Robbery,Medium,Miami,South,03:16 AM,Unsolved
+1066,22-02-2023,Vandalism,Low,San Diego,East,08:40 AM,Unsolved
+1067,45237,Vandalism,Low,New York,North,04:08 PM,Solved
+1068,11-09-2023,Fraud,Low,New York,South,06:25 AM,Solved
+1069,28-10-2023,Vandalism,Low,Chicago,North,10:53 AM,Unsolved
+1070,16-12-2023,Assault,High,Dallas,South,09:40 PM,Unsolved
+1071,22-08-2023,Theft,Medium,Houston,North,01:49 PM,Unsolved
+1072,13-11-2023,Burglary,Medium,Chicago,East,11:22 AM,Solved
+1073,05-05-2023,Vandalism,Low,San Diego,South,08:56 AM,Solved
+1074,29-03-2023,Robbery,Medium,San Diego,North,12:33 AM,Solved
+1075,31-10-2023,Drug Offense,Medium,San Francisco,West,09:06 AM,Unsolved
+1076,22-11-2023,Drug Offense,Medium,San Diego,East,12:34 PM,Solved
+1077,14-11-2023,Drug Offense,Medium,Miami,South,12:52 AM,Solved
+1078,12-08-2023,Vandalism,Low,Los Angeles,East,11:00 PM,Solved
+1079,17-12-2023,Homicide,High,Miami,South,12:22 AM,Unsolved
+1080,06-03-2023,Drug Offense,Medium,Chicago,West,04:51 AM,Unsolved
+1081,18-01-2023,Drug Offense,Medium,Houston,East,03:09 AM,Solved
+1082,12-08-2023,Drug Offense,Medium,Houston,East,09:23 PM,Solved
+1083,13-09-2023,Fraud,#,Chicago,East,10:26 AM,Solved
+1084,17-12-2023,Robbery,Medium,Houston,West,03:21 PM,Solved
+1085,23-10-2023,Arson,High,New York,East,07:37 AM,Unsolved
+1086,09-08-2023,Drug Offense,Medium,New York,South,06:56 AM,Unsolved
+1087,24-12-2023,Burglary,Medium,Chicago,East,06:07 AM,Unsolved
+1088,04-08-2023,Arson,High,Dallas,North,11:35 AM,Unsolved
+1089,07-05-2023,Robbery,Medium,San Diego,East,07:22 AM,Solved
+1090,05-05-2023,Theft,Medium,San Francisco,South,08:53 PM,Unsolved
+1091,01-04-2023,Assault,High,New York,South,06:12 AM,Unsolved
+1092,20-07-2023,Theft,Medium,Chicago,East,08:09 PM,Unsolved
+1093,30-04-2023,Burglary,Medium,Dallas,North,07:41 PM,Unsolved
+1094,08-06-2023,Robbery,Medium,San Diego,North,07:41 PM,Solved
+1095,25-04-2023,Arson,High,Miami,South,09:10 AM,Unsolved
+1096,22-07-2023,Arson,High,San Diego,North,06:49 PM,Solved
+1097,16-08-2023,Robbery,Medium,New York,South,01:17 AM,Solved
+1098,09-03-2023,Assault,High,Boston,North,01:55 PM,Solved
+1099,08-11-2023,Homicide,High,New York,South,07:07 PM,Solved
+1100,06-11-2023,Robbery,Medium,Los Angeles,North,11:57 PM,Unsolved
+1101,14-05-2023,Fraud,Low,San Diego,East,09:45 PM,Solved
+1102,08-02-2023,Arson,High,$,North,08:46 PM,Unsolved
+1103,15-07-2023,Arson,High,Boston,West,04:27 PM,Solved
+1104,09-07-2023,Fraud,Low,Boston,East,11:34 AM,Solved
+1105,17-04-2023,Assault,High,Miami,North,01:39 AM,Solved
+1106,20-04-2023,Assault,High,Seattle,West,02:44 AM,Unsolved
+1107,30-06-2023,Vandalism,Low,Chicago,West,03:34 AM,Unsolved
+1108,30-06-2023,Burglary,Medium,Seattle,North,06:36 AM,Solved
+1109,15-08-2023,Homicide,High,San Diego,North,01:39 AM,Solved
+1110,02-03-2023,Fraud,Low,New York,South,12:11 AM,Solved
+1111,24-06-2023,Robbery,Medium,New York,West,03:01 AM,Unsolved
+1112,23-11-2023,Theft,Medium,Boston,East,06:20 AM,Unsolved
+1113,18-08-2023,Drug Offense,Medium,Seattle,North,07:25 AM,Unsolved
+1114,30-03-2023,Burglary,Medium,Miami,East,08:58 PM,Solved
+1115,26-10-2023,Robbery,Medium,Dallas,East,10:45 PM,Unsolved
+1116,15-03-2023,Arson,High,Los Angeles,North,02:04 AM,Unsolved
+1117,26-09-2023,Fraud,Low,Dallas,West,06:46 PM,Unsolved
+1118,07-02-2023,Drug Offense,Medium,San Diego,South,05:28 PM,Solved
+1119,22-12-2023,Burglary,Medium,Los Angeles,East,09:37 PM,Solved
+1120,10-09-2023,Burglary,Medium,Dallas,North,08:12 AM,Unsolved
+1121,28-09-2023,Arson,High,Dallas,East,07:02 AM,Unsolved
+1122,11-06-2023,Drug Offense,Medium,Houston,East,06:02 AM,Solved
+1123,29-01-2023,Homicide,High,San Diego,South,12:06 AM,Solved
+1124,11-11-2023,Burglary,Medium,Chicago,North,12:36 PM,Unsolved
+1125,18-08-2023,Arson,High,New York,East,02:27 AM,Unsolved
+1126,11-11-2023,Drug Offense,Medium,Seattle,West,10:03 AM,Unsolved
+1127,44975,Fraud,Low,San Diego,South,07:14 AM,Solved
+1128,02-01-2023,Assault,High,Chicago,East,09:56 PM,Solved
+1129,18-11-2023,Drug Offense,Medium,Chicago,South,08:45 AM,Solved
+1130,20-11-2023,Vandalism,Low,Dallas,South,05:54 AM,Solved
+1131,17-03-2023,Drug Offense,Medium,Dallas,West,07:55 AM,Solved
+1132,17-10-2023,Theft,Medium,Dallas,South,04:00 PM,Solved
+1133,17-04-2023,Robbery,Medium,New York,East,11:08 AM,Solved
+1134,16-07-2023,Robbery,Medium,New York,South,08:26 PM,Unsolved
+1135,22-04-2023,Drug Offense,Medium,Houston,West,12:52 AM,Unsolved
+1136,01-04-2023,Arson,High,San Francisco,East,06:40 AM,Solved
+1137,14-06-2023,Burglary,Medium,New York,East,01:59 AM,Unsolved
+1138,15-09-2023,Assault,High,Los Angeles,East,12:24 AM,Solved
+1139,09-06-2023,Burglary,Medium,New York,East,02:29 PM,Unsolved
+1140,17-06-2023,Drug Offense,Medium,Houston,West,05:43 PM,Unsolved
+1141,10-01-2023,Arson,High,Boston,West,12:42 PM,Unsolved
+1142,19-11-2023,Robbery,Medium,San Francisco,North,03:42 AM,Unsolved
+1143,24-10-2023,Burglary,Medium,Seattle,West,06:52 AM,Unsolved
+1144,19-08-2023,Homicide,High,Los Angeles,North,06:07 AM,Solved
+1145,30-01-2023,Homicide,High,Miami,West,04:47 AM,Solved
+1146,14-11-2023,Robbery,Medium,San Francisco,East,02:23 PM,Unsolved
+1147,01-03-2023,Assault,High,San Diego,South,03:25 AM,Unsolved
+1148,05-03-2023,Homicide,High,Los Angeles,West,09:56 AM,Unsolved
+1149,19-12-2023,Arson,High,Dallas,West,11:27 AM,Unsolved
+1150,26-05-2023,Drug Offense,Medium,Dallas,West,11:02 AM,Unsolved
+1151,22-03-2023,Burglary,Medium,Seattle,West,02:11 AM,Unsolved
+1152,27-12-2023,Drug Offense,Medium,Boston,West,12:15 PM,Solved
+1153,28-05-2023,Fraud,Low,Seattle,South,05:01 AM,Unsolved
+1154,19-11-2023,Arson,High,Dallas,South,07:42 PM,Unsolved
+1155,30-09-2023,Vandalism,Low,San Francisco,South,06:43 AM,Solved
+1156,01-11-2023,Robbery,Medium,San Francisco,East,08:49 AM,Unsolved
+1157,09-02-2023,Arson,High,Seattle,South,10:34 PM,Unsolved
+1158,28-08-2023,Robbery,Medium,Miami,South,09:36 PM,Solved
+1159,24-08-2023,Drug Offense,Medium,Dallas,North,09:28 PM,Unsolved
+1160,30-11-2023,Arson,High,Chicago,South,05:13 PM,Solved
+1161,05-01-2023,Burglary,Medium,Seattle,East,10:46 AM,Unsolved
+1162,26-03-2023,Robbery,Medium,Dallas,South,06:56 AM,Unsolved
+1163,23-08-2023,Arson,High,Seattle,North,08:54 PM,Solved
+1164,17-02-2023,Homicide,High,Chicago,North,07:26 AM,Solved
+1165,15-11-2023,Homicide,High,Seattle,West,03:48 PM,Solved
+1166,20-03-2023,Assault,High,Miami,West,10:49 AM,Unsolved
+1167,20-12-2023,Fraud,Low,Boston,North,10:00 AM,Solved
+1168,15-02-2023,Theft,Medium,New York,South,04:01 PM,Solved
+1169,30-03-2023,Theft,Medium,Houston,West,10:18 AM,Unsolved
+1170,05-10-2023,Theft,Medium,Houston,East,08:39 PM,Unsolved
+1171,15-07-2023,Vandalism,Low,Los Angeles,North,04:35 PM,Unsolved
+1172,13-06-2023,Arson,High,Chicago,North,04:38 AM,Unsolved
+1173,18-11-2023,Vandalism,Low,Boston,East,08:42 AM,Unsolved
+1174,22-12-2023,Vandalism,Low,Seattle,West,03:08 AM,Solved
+1175,09-06-2023,Drug Offense,Medium,Miami,North,07:06 AM,Solved
+1176,15-12-2023,Robbery,Medium,Dallas,East,02:03 AM,Solved
+1177,18-09-2023,Assault,High,New York,West,03:48 PM,Solved
+1178,16-03-2023,Vandalism,Low,San Diego,South,11:09 PM,Unsolved
+1179,17-05-2023,Drug Offense,Medium,Seattle,West,11:39 AM,Unsolved
+1180,16-10-2023,Drug Offense,Medium,Miami,North,03:42 PM,Unsolved
+1181,26-09-2023,Drug Offense,Medium,Los Angeles,South,12:21 PM,Unsolved
+1182,11-06-2023,Assault,High,Los Angeles,East,05:31 PM,Unsolved
+1183,03-05-2023,Theft,Medium,Chicago,South,04:23 PM,Unsolved
+1184,30-11-2023,Homicide,High,San Francisco,East,01:08 AM,Unsolved
+1185,30-12-2023,Drug Offense,Medium,Boston,North,06:49 PM,Unsolved
+1186,21-06-2023,Drug Offense,Medium,San Diego,West,07:56 AM,Unsolved
+1187,19-08-2023,Assault,High,San Diego,East,07:48 PM,Unsolved
+1188,14-10-2023,Arson,High,Seattle,West,07:39 PM,Solved
+1189,07-06-2023,Fraud,Low,Seattle,West,07:16 AM,Unsolved
+1190,28-03-2023,Theft,Medium,Miami,South,09:03 PM,Solved
+1191,13-07-2023,Vandalism,Low,San Francisco,West,10:25 PM,Solved
+1192,16-10-2023,Burglary,Medium,Miami,North,12:43 PM,Unsolved
+1193,11-01-2023,Theft,Medium,San Francisco,South,03:52 AM,Unsolved
+1194,07-03-2023,Theft,Medium,Miami,North,12:39 PM,Solved
+1195,17-09-2023,Assault,High,San Diego,North,08:08 PM,Solved
+1196,11-04-2023,Vandalism,Low,Miami,West,10:16 PM,Solved
+1197,16-08-2023,Burglary,Medium,Miami,West,08:58 AM,Unsolved
+1198,07-09-2023,Vandalism,Low,Los Angeles,North,03:27 PM,Unsolved
+1199,24-09-2023,Vandalism,Low,Houston,East,10:25 PM,Solved
+1200,12-11-2023,Drug Offense,Medium,Houston,East,08:10 PM,Solved
+1201,13-06-2023,Assault,High,Los Angeles,East,02:41 AM,Solved
+1202,17-01-2023,Theft,Medium,Los Angeles,West,07:54 AM,Unsolved
+1203,11-09-2023,Drug Offense,Medium,Houston,East,02:07 PM,Solved
+1204,08-02-2023,Theft,Medium,San Diego,West,03:50 PM,Unsolved
+1205,03-11-2023,Assault,High,San Francisco,South,09:33 AM,Unsolved
+1206,15-11-2023,Burglary,Medium,Miami,West,10:18 AM,Solved
+1207,30-10-2023,Homicide,High,Los Angeles,East,07:39 AM,Solved
+1208,03-09-2023,Burglary,Medium,Houston,South,10:16 AM,Unsolved
+1209,21-06-2023,Homicide,High,Chicago,North,12:13 AM,Unsolved
+1210,25-04-2023,Arson,High,Dallas,West,07:14 AM,Unsolved
+1211,09-08-2023,Drug Offense,Medium,Chicago,East,06:37 PM,Solved
+1212,24-11-2023,Drug Offense,Medium,New York,North,08:46 PM,Solved
+1213,31-05-2023,Theft,Medium,Seattle,East,05:07 AM,Unsolved
+1214,13-09-2023,Assault,High,Dallas,East,08:42 PM,Unsolved
+1215,01-07-2023,Assault,High,Seattle,South,07:10 AM,Unsolved
+1216,06-08-2023,Fraud,Low,Dallas,North,02:48 PM,Solved
+1217,05-12-2023,Burglary,Medium,Boston,South,04:53 AM,Solved
+1218,27-09-2023,Homicide,High,Seattle,North,05:03 AM,Unsolved
+1219,15-02-2023,Robbery,Medium,Chicago,East,05:33 PM,Solved
+1220,06-05-2023,Assault,High,New York,South,10:30 AM,Unsolved
+1221,09-07-2023,Arson,High,Dallas,South,08:27 AM,Unsolved
+1222,10-06-2023,Drug Offense,Medium,New York,West,12:52 AM,Unsolved
+1223,08-06-2023,Theft,Medium,Seattle,West,06:24 PM,Solved
+1224,10-11-2023,Drug Offense,Medium,Miami,South,10:22 PM,Unsolved
+1225,11-09-2023,Arson,High,Houston,West,01:49 AM,Solved
+1226,28-07-2023,Theft,Medium,Seattle,West,11:35 AM,Unsolved
+1227,24-01-2023,Drug Offense,Medium,Miami,North,02:33 PM,Unsolved
+1228,23-04-2023,Assault,High,Dallas,North,08:46 PM,Solved
+1229,29-07-2023,Homicide,High,Boston,North,05:29 AM,Unsolved
+1230,06-05-2023,Assault,High,San Francisco,East,10:52 AM,Solved
+1231,11-10-2023,Fraud,Low,San Diego,West,12:19 PM,Solved
+1232,14-08-2023,Drug Offense,Medium,Dallas,South,04:47 AM,Solved
+1233,30-12-2023,Theft,Medium,New York,East,12:20 PM,Solved
+1234,31-05-2023,Homicide,High,New York,North,10:58 AM,Unsolved
+1235,13-06-2023,Robbery,Medium,San Francisco,South,01:15 AM,Unsolved
+1236,06-08-2023,Burglary,Medium,Houston,West,08:07 PM,Solved
+1237,27-05-2023,Homicide,High,Chicago,West,05:23 PM,Unsolved
+1238,04-02-2023,Fraud,Low,Boston,East,05:46 PM,Unsolved
+1239,28-06-2023,Burglary,Medium,San Diego,South,11:29 PM,Solved
+1240,31-08-2023,Burglary,Medium,Dallas,North,11:20 AM,Unsolved
+1241,22-08-2023,Drug Offense,Medium,Miami,East,12:47 PM,Unsolved
+1242,03-05-2023,Theft,Medium,Boston,South,02:25 AM,Solved
+1243,13-05-2023,Homicide,High,San Francisco,South,06:44 PM,Solved
+1244,09-07-2023,Homicide,High,San Francisco,North,11:58 AM,Solved
+1245,23-12-2023,Homicide,High,Los Angeles,East,11:52 AM,Unsolved
+1246,11-12-2023,Theft,Medium,Chicago,South,05:04 AM,Unsolved
+1247,07-02-2023,Fraud,Low,Los Angeles,North,05:11 PM,Solved
+1248,22-05-2023,Robbery,Medium,Boston,North,05:36 AM,Unsolved
+1249,26-04-2023,Homicide,High,San Francisco,North,02:39 AM,Unsolved
+1250,18-06-2023,Robbery,Medium,Los Angeles,West,08:38 PM,Unsolved
+1251,28-11-2023,Burglary,Medium,Boston,North,08:27 AM,Solved
+1252,14-12-2023,Assault,High,Houston,North,10:41 PM,Unsolved
+1253,29-04-2023,Homicide,High,Seattle,East,05:45 PM,Solved
+1254,06-01-2023,Theft,Medium,Chicago,West,12:16 PM,Unsolved
+1255,27-01-2023,Homicide,High,San Diego,North,10:05 PM,Solved
+1256,13-05-2023,Vandalism,Low,Miami,East,02:36 AM,Unsolved
+1257,08-09-2023,Arson,High,Boston,East,10:55 PM,Solved
+1258,10-08-2023,Assault,High,New York,East,08:49 AM,Solved
+1259,29-12-2023,Homicide,High,New York,North,01:32 AM,Solved
+1260,07-08-2023,Homicide,High,Chicago,South,03:08 AM,Unsolved
+1261,14-08-2023,Burglary,Medium,New York,North,03:01 AM,Solved
+1262,03-02-2023,Vandalism,Low,San Francisco,West,03:22 PM,Solved
+1263,27-08-2023,Robbery,Medium,New York,West,06:48 AM,Solved
+1264,31-05-2023,Fraud,Low,Dallas,North,08:56 PM,Solved
+1265,27-02-2023,Arson,High,Los Angeles,North,09:56 PM,Solved
+1266,09-03-2023,Burglary,Medium,New York,West,12:17 PM,Solved
+1267,16-09-2023,Assault,High,Houston,West,05:48 AM,Solved
+1268,10-07-2023,Homicide,High,Los Angeles,East,01:07 AM,Unsolved
+1269,18-10-2023,Vandalism,Low,Dallas,West,05:14 AM,Solved
+1270,07-04-2023,Homicide,High,Seattle,East,07:28 PM,Unsolved
+1271,30-03-2023,Theft,Medium,Boston,North,06:23 AM,Unsolved
+1272,30-11-2023,Arson,High,Los Angeles,North,05:41 PM,Solved
+1273,08-11-2023,Fraud,Low,Houston,South,11:29 AM,Solved
+1274,19-06-2023,Drug Offense,Medium,Houston,South,07:54 AM,Unsolved
+1275,15-09-2023,Drug Offense,Medium,San Diego,West,03:09 AM,Solved
+1276,02-05-2023,Robbery,Medium,San Diego,South,06:17 PM,Solved
+1277,15-12-2023,Fraud,Low,Seattle,South,05:19 PM,Solved
+1278,21-11-2023,Theft,Medium,Los Angeles,North,06:56 PM,Solved
+1279,01-04-2023,Robbery,Medium,Miami,North,07:04 PM,Solved
+1280,07-08-2023,Arson,High,Chicago,North,12:47 AM,Solved
+1281,21-10-2023,Assault,High,New York,North,10:01 AM,Unsolved
+1282,30-03-2023,Homicide,High,Boston,South,04:22 AM,Unsolved
+1283,01-03-2023,Burglary,Medium,Chicago,South,10:06 PM,Unsolved
+1284,18-04-2023,Burglary,Medium,San Diego,North,01:12 AM,Solved
+1285,22-02-2023,Fraud,Low,New York,North,10:34 PM,Solved
+1286,07-10-2023,Fraud,Low,San Francisco,West,09:16 AM,Solved
+1287,26-07-2023,Assault,High,Houston,East,06:03 AM,Solved
+1288,26-08-2023,Arson,High,San Diego,South,03:32 AM,Unsolved
+1289,24-10-2023,Vandalism,Low,Los Angeles,West,06:52 AM,Unsolved
+1290,20-12-2023,Theft,Medium,New York,North,08:31 AM,Solved
+1291,11-05-2023,Robbery,Medium,Houston,South,09:28 PM,Unsolved
+1292,03-12-2023,Burglary,Medium,New York,West,07:23 AM,Unsolved
+1293,06-08-2023,Assault,High,New York,South,07:43 AM,Unsolved
+1294,04-07-2023,Arson,High,Los Angeles,South,01:18 AM,Solved
+1295,13-01-2023,Robbery,Medium,Dallas,East,12:59 PM,Unsolved
+1296,16-02-2023,Assault,High,Seattle,South,07:12 AM,Unsolved
+1297,02-02-2023,Homicide,High,Chicago,East,02:32 PM,Solved
+1298,23-11-2023,Assault,High,San Francisco,East,12:15 AM,Solved
+1299,08-01-2023,Robbery,Medium,Boston,West,02:28 PM,Unsolved
+1300,01-04-2023,Theft,Medium,Dallas,South,07:21 AM,Unsolved
+1301,08-11-2023,Drug Offense,Medium,New York,North,02:23 PM,Unsolved
+1302,04-02-2023,Theft,Medium,Boston,West,11:42 PM,Solved
+1303,02-11-2023,Arson,High,Houston,East,06:12 PM,Solved
+1304,26-02-2023,Drug Offense,Medium,Dallas,South,04:49 AM,Unsolved
+1305,22-05-2023,Assault,High,San Francisco,South,04:38 PM,Solved
+1306,01-07-2023,Burglary,Medium,San Francisco,East,08:33 PM,Unsolved
+1307,02-09-2023,Arson,High,Los Angeles,South,09:03 PM,Solved
+1308,01-06-2023,Fraud,Low,Boston,West,10:05 AM,Solved
+1309,22-08-2023,Assault,High,Seattle,North,09:41 AM,Solved
+1310,06-09-2023,Fraud,Low,San Francisco,West,01:30 PM,Unsolved
+1311,06-02-2023,Burglary,Medium,Boston,East,06:06 AM,Solved
+1312,09-01-2023,Robbery,Medium,Chicago,North,05:10 PM,Unsolved
+1313,13-11-2023,Homicide,High,Boston,South,09:02 AM,Unsolved
+1314,04-01-2023,Assault,High,New York,East,08:08 PM,Unsolved
+1315,27-04-2023,Drug Offense,Medium,Houston,West,04:40 AM,Unsolved
+1316,14-05-2023,Drug Offense,Medium,Chicago,West,10:40 AM,Solved
+1317,30-09-2023,Arson,High,Los Angeles,East,09:38 PM,Solved
+1318,22-12-2023,Drug Offense,Medium,San Francisco,South,06:15 PM,Solved
+1319,03-05-2023,Fraud,Low,New York,West,09:27 AM,Unsolved
+1320,28-08-2023,Robbery,Medium,Boston,North,02:05 AM,Solved
+1321,05-05-2023,Assault,High,San Diego,North,03:28 PM,Unsolved
+1322,25-04-2023,Fraud,Low,Boston,East,05:43 PM,Unsolved
+1323,07-08-2023,Assault,High,Miami,North,04:16 AM,Unsolved
+1324,15-11-2023,Assault,High,Boston,North,04:49 PM,Unsolved
+1325,08-11-2023,Theft,Medium,Miami,North,01:18 AM,Solved
+1326,25-11-2023,Assault,High,Dallas,North,04:40 PM,Unsolved
+1327,02-01-2023,Assault,High,Seattle,North,10:16 AM,Solved
+1328,29-10-2023,Vandalism,Low,Miami,East,05:25 AM,Solved
+1329,31-12-2023,Fraud,Low,Houston,South,07:30 AM,Unsolved
+1330,11-06-2023,Theft,Medium,San Diego,South,09:47 AM,Solved
+1331,21-05-2023,Arson,High,Seattle,West,02:10 AM,Solved
+1332,16-10-2023,Vandalism,Low,San Diego,West,09:22 PM,Solved
+1333,23-12-2023,Burglary,Medium,San Diego,South,06:26 PM,Unsolved
+1334,28-10-2023,Homicide,High,San Diego,North,02:56 PM,Unsolved
+1335,03-08-2023,Drug Offense,Medium,Houston,East,01:45 PM,Solved
+1336,05-06-2023,Assault,High,Miami,North,04:16 AM,Solved
+1337,14-09-2023,Arson,High,Seattle,North,02:32 AM,Solved
+1338,20-10-2023,Vandalism,Low,Miami,South,11:50 PM,Solved
+1339,02-09-2023,Theft,Medium,San Diego,South,08:14 AM,Solved
+1340,25-02-2023,Drug Offense,Medium,Los Angeles,West,11:51 PM,Solved
+1341,30-11-2023,Theft,Medium,New York,North,07:05 PM,Unsolved
+1342,09-01-2023,Fraud,Low,Boston,South,03:56 AM,Unsolved
+1343,07-04-2023,Theft,Medium,Miami,South,05:11 PM,Unsolved
+1344,17-12-2023,Arson,High,Dallas,North,08:12 AM,Solved
+1345,08-08-2023,Arson,High,Miami,North,08:49 AM,Unsolved
+1346,15-06-2023,Fraud,Low,Seattle,East,04:00 AM,Solved
+1347,04-04-2023,Drug Offense,Medium,Boston,North,08:32 PM,Solved
+1348,29-04-2023,Arson,High,New York,West,06:11 PM,Solved
+1349,19-08-2023,Fraud,Low,Dallas,South,01:56 PM,Solved
+1350,04-09-2023,Burglary,Medium,Miami,West,07:27 AM,Solved
+1351,01-01-2023,Theft,Medium,New York,South,03:15 PM,Solved
+1352,23-04-2023,Assault,High,New York,East,03:24 PM,Unsolved
+1353,07-03-2023,Theft,Medium,San Diego,East,04:14 AM,Solved
+1354,11-05-2023,Robbery,Medium,San Francisco,North,06:59 PM,Unsolved
+1355,20-02-2023,Drug Offense,Medium,Los Angeles,East,06:59 PM,Solved
+1356,27-07-2023,Theft,Medium,Dallas,West,08:55 AM,Solved
+1357,01-03-2023,Homicide,High,Houston,South,09:21 PM,Unsolved
+1358,07-02-2023,Homicide,High,Houston,West,05:32 AM,Solved
+1359,25-04-2023,Vandalism,Low,Seattle,East,11:34 AM,Solved
+1360,04-04-2023,Vandalism,Low,Miami,North,10:26 PM,Unsolved
+1361,02-02-2023,Fraud,Low,New York,North,11:56 PM,Unsolved
+1362,07-11-2023,Vandalism,Low,Seattle,South,03:40 AM,Unsolved
+1363,13-10-2023,Theft,Medium,Los Angeles,West,10:53 PM,Solved
+1364,02-11-2023,Robbery,Medium,Houston,West,12:33 PM,Solved
+1365,26-12-2023,Arson,High,Miami,North,06:40 PM,Solved
+1366,23-10-2023,Burglary,Medium,San Francisco,North,08:46 AM,Unsolved
+1367,13-09-2023,Burglary,Medium,Los Angeles,West,07:11 PM,Unsolved
+1368,28-01-2023,Homicide,High,San Francisco,North,07:28 AM,Solved
+1369,12-01-2023,Vandalism,Low,Seattle,North,05:09 PM,Solved
+1370,08-03-2023,Homicide,High,Los Angeles,East,03:03 PM,Unsolved
+1371,05-04-2023,Assault,High,Seattle,West,07:21 AM,Unsolved
+1372,08-06-2023,Robbery,Medium,Boston,East,06:01 PM,Solved
+1373,17-05-2023,Drug Offense,Medium,Houston,East,10:53 AM,Solved
+1374,02-04-2023,Vandalism,Low,Boston,North,05:49 PM,Solved
+1375,17-12-2023,Assault,High,San Diego,West,05:49 AM,Solved
+1376,11-02-2023,Arson,High,Chicago,South,05:14 AM,Solved
+1377,12-10-2023,Arson,High,Seattle,North,03:55 PM,Unsolved
+1378,04-08-2023,Fraud,Low,Houston,West,02:00 AM,Unsolved
+1379,28-01-2023,Robbery,Medium,San Francisco,West,01:16 PM,Unsolved
+1380,25-04-2023,Robbery,Medium,Seattle,North,08:30 PM,Solved
+1381,07-06-2023,Fraud,Low,Boston,West,10:08 PM,Solved
+1382,27-05-2023,Assault,High,Chicago,South,03:42 PM,Solved
+1383,05-12-2023,Robbery,Medium,San Francisco,South,09:36 PM,Solved
+1384,28-04-2023,Drug Offense,Medium,New York,West,10:10 AM,Solved
+1385,09-03-2023,Theft,Medium,Miami,East,04:19 PM,Solved
+1386,05-06-2023,Drug Offense,Medium,Seattle,South,02:16 PM,Solved
+1387,19-01-2023,Drug Offense,Medium,Miami,South,07:16 AM,Unsolved
+1388,06-11-2023,Fraud,Low,New York,South,07:44 AM,Solved
+1389,06-08-2023,Fraud,Low,Seattle,South,06:45 AM,Solved
+1390,12-05-2023,Drug Offense,Medium,Houston,West,04:33 AM,Solved
+1391,08-01-2023,Theft,Medium,Los Angeles,East,03:48 AM,Unsolved
+1392,05-05-2023,Homicide,High,Boston,East,04:33 AM,Solved
+1393,26-06-2023,Theft,Medium,Miami,North,07:15 AM,Unsolved
+1394,31-10-2023,Burglary,Medium,Los Angeles,North,12:26 AM,Solved
+1395,01-08-2023,Robbery,Medium,Dallas,South,11:45 PM,Unsolved
+1396,17-09-2023,Fraud,Low,Miami,South,01:07 PM,Solved
+1397,17-11-2023,Drug Offense,Medium,Los Angeles,South,06:03 AM,Unsolved
+1398,02-02-2023,Burglary,Medium,Chicago,South,09:28 AM,Unsolved
+1399,05-03-2023,Homicide,High,Dallas,North,03:49 PM,Unsolved
+1400,21-05-2023,Vandalism,Low,Miami,East,05:39 AM,Solved
+1401,10-02-2023,Burglary,Medium,Chicago,West,12:07 AM,Unsolved
+1402,20-05-2023,Arson,High,Dallas,North,05:35 PM,Solved
+1403,01-03-2023,Theft,Medium,San Diego,East,05:34 PM,Unsolved
+1404,29-12-2023,Arson,High,Seattle,East,07:12 PM,Unsolved
+1405,07-03-2023,Robbery,Medium,Boston,South,12:05 PM,Unsolved
+1406,19-07-2023,Burglary,Medium,Boston,West,12:39 PM,Solved
+1407,04-08-2023,Vandalism,Low,Seattle,East,12:16 AM,Unsolved
+1408,02-08-2023,Theft,Medium,San Diego,West,03:11 PM,Unsolved
+1409,20-04-2023,Robbery,Medium,Boston,East,02:33 PM,Solved
+1410,09-04-2023,Burglary,Medium,San Diego,South,04:17 AM,Unsolved
+1411,04-11-2023,Robbery,Medium,San Francisco,North,05:14 PM,Unsolved
+1412,15-08-2023,Drug Offense,Medium,Dallas,East,08:53 PM,Solved
+1413,26-11-2023,Fraud,Low,San Francisco,East,10:14 AM,Solved
+1414,27-07-2023,Homicide,High,Los Angeles,East,05:30 PM,Solved
+1415,14-11-2023,Theft,Medium,San Diego,North,12:06 AM,Solved
+1416,12-12-2023,Arson,High,Dallas,North,01:04 PM,Unsolved
+1417,26-04-2023,Fraud,Low,Houston,North,04:56 PM,Solved
+1418,08-08-2023,Drug Offense,Medium,San Diego,West,01:26 PM,Solved
+1419,21-10-2023,Arson,High,Los Angeles,East,03:27 AM,Unsolved
+1420,11-07-2023,Homicide,High,San Diego,East,02:37 AM,Solved
+1421,24-12-2023,Fraud,Low,Seattle,South,02:41 AM,Solved
+1422,30-06-2023,Arson,High,Los Angeles,West,04:48 AM,Unsolved
+1423,28-12-2023,Robbery,Medium,Seattle,South,12:34 PM,Solved
+1424,29-12-2023,Burglary,Medium,Miami,South,04:25 PM,Solved
+1425,16-11-2023,Theft,Medium,New York,West,01:40 AM,Unsolved
+1426,12-12-2023,Fraud,Low,San Diego,North,06:40 AM,Unsolved
+1427,22-04-2023,Fraud,Low,Chicago,West,02:27 PM,Solved
+1428,20-08-2023,Theft,Medium,Houston,North,09:11 AM,Unsolved
+1429,22-05-2023,Homicide,High,Los Angeles,East,06:41 PM,Solved
+1430,10-02-2023,Robbery,Medium,Boston,East,09:06 PM,Solved
+1431,29-11-2023,Fraud,Low,Houston,North,04:41 PM,Solved
+1432,30-06-2023,Homicide,High,Seattle,West,09:24 AM,Unsolved
+1433,09-12-2023,Assault,High,New York,East,08:27 AM,Solved
+1434,16-11-2023,Theft,Medium,Los Angeles,East,06:37 PM,Unsolved
+1435,13-03-2023,Vandalism,Low,Chicago,North,10:24 AM,Unsolved
+1436,20-02-2023,Homicide,High,Dallas,South,08:54 PM,Solved
+1437,15-09-2023,Arson,High,San Francisco,West,03:11 AM,Unsolved
+1438,27-01-2023,Fraud,Low,Dallas,West,02:28 AM,Unsolved
+1439,15-08-2023,Homicide,High,Seattle,South,12:06 PM,Unsolved
+1440,01-09-2023,Burglary,Medium,San Francisco,West,01:02 AM,Solved
+1441,03-01-2023,Arson,High,Los Angeles,South,06:29 AM,Unsolved
+1442,19-11-2023,Robbery,Medium,San Francisco,East,08:30 PM,Unsolved
+1443,03-12-2023,Vandalism,Low,San Diego,West,03:15 AM,Solved
+1444,22-04-2023,Robbery,Medium,Houston,West,02:47 PM,Solved
+1445,26-08-2023,Assault,High,San Francisco,West,01:08 AM,Solved
+1446,30-12-2023,Assault,High,Boston,South,12:23 PM,Solved
+1447,06-09-2023,Arson,High,Seattle,North,09:19 PM,Unsolved
+1448,11-06-2023,Fraud,Low,Houston,North,10:26 AM,Solved
+1449,04-08-2023,Robbery,Medium,Miami,North,02:34 PM,Solved
+1450,08-07-2023,Homicide,High,Chicago,West,09:25 AM,Unsolved
+1451,13-06-2023,Theft,Medium,Chicago,West,01:47 AM,Unsolved
+1452,29-01-2023,Drug Offense,Medium,Seattle,West,02:57 AM,Solved
+1453,11-05-2023,Robbery,Medium,San Diego,South,01:17 AM,Unsolved
+1454,09-07-2023,Assault,High,Seattle,West,06:28 AM,Solved
+1455,18-09-2023,Assault,High,New York,East,05:56 PM,Solved
+1456,12-12-2023,Vandalism,Low,San Francisco,North,02:09 PM,Unsolved
+1457,09-04-2023,Assault,High,Houston,West,09:18 AM,Unsolved
+1458,19-05-2023,Arson,High,Chicago,East,06:53 PM,Unsolved
+1459,16-09-2023,Arson,High,New York,West,05:15 AM,Unsolved
+1460,21-08-2023,Fraud,Low,San Diego,West,04:06 PM,Unsolved
+1461,09-02-2023,Burglary,Medium,Boston,South,03:41 AM,Solved
+1462,23-03-2023,Fraud,Low,Boston,West,08:28 AM,Unsolved
+1463,30-12-2023,Drug Offense,Medium,Boston,South,02:55 PM,Solved
+1464,14-07-2023,Arson,High,Chicago,East,08:43 PM,Solved
+1465,11-07-2023,Burglary,Medium,Houston,East,10:44 AM,Unsolved
+1466,03-06-2023,Drug Offense,Medium,Los Angeles,South,02:18 PM,Solved
+1467,19-08-2023,Drug Offense,Medium,Los Angeles,North,10:31 AM,Solved
+1468,16-02-2023,Drug Offense,Medium,San Francisco,North,01:14 PM,Unsolved
+1469,08-08-2023,Drug Offense,Medium,San Diego,West,06:52 PM,Solved
+1470,26-11-2023,Assault,High,San Francisco,South,10:36 PM,Solved
+1471,20-11-2023,Robbery,Medium,San Diego,West,08:34 AM,Unsolved
+1472,30-03-2023,Theft,Medium,Houston,West,08:39 PM,Unsolved
+1473,02-01-2023,Burglary,Medium,Los Angeles,East,01:42 PM,Solved
+1474,30-01-2023,Fraud,Low,Los Angeles,South,01:44 PM,Solved
+1475,26-01-2023,Drug Offense,Medium,New York,North,04:20 AM,Unsolved
+1476,30-09-2023,Theft,Medium,Chicago,West,08:24 AM,Unsolved
+1477,08-11-2023,Assault,High,Dallas,South,11:00 PM,Solved
+1478,01-09-2023,Theft,Medium,Boston,West,08:48 PM,Unsolved
+1479,05-05-2023,Vandalism,Low,Los Angeles,East,05:47 AM,Solved
+1480,20-05-2023,Vandalism,Low,San Diego,North,11:19 PM,Solved
+1481,05-07-2023,Homicide,High,New York,West,07:36 AM,Unsolved
+1482,28-05-2023,Vandalism,Low,San Francisco,West,01:10 AM,Solved
+1483,15-01-2023,Homicide,High,Boston,North,07:29 AM,Solved
+1484,07-11-2023,Theft,Medium,Seattle,West,01:18 PM,Unsolved
+1485,23-10-2023,Vandalism,Low,Miami,East,02:57 AM,Solved
+1486,27-06-2023,Assault,High,Houston,North,01:13 AM,Solved
+1487,01-05-2023,Homicide,High,Boston,South,08:04 AM,Solved
+1488,15-07-2023,Arson,High,Dallas,West,04:52 PM,Unsolved
+1489,28-04-2023,Drug Offense,Medium,Dallas,East,07:17 AM,Solved
+1490,03-11-2023,Homicide,High,Miami,East,05:02 AM,Solved
+1491,06-05-2023,Theft,Medium,Dallas,North,05:02 AM,Solved
+1492,22-01-2023,Homicide,High,Houston,West,10:52 PM,Solved
+1493,09-02-2023,Arson,High,Miami,North,09:00 PM,Solved
+1494,21-11-2023,Assault,High,San Diego,South,11:13 PM,Unsolved
+1495,15-11-2023,Assault,High,New York,South,10:12 AM,Unsolved
+1496,11-02-2023,Fraud,Low,Dallas,North,11:42 PM,Unsolved
+1497,21-07-2023,Robbery,Medium,New York,North,03:53 PM,Solved
+1498,25-09-2023,Fraud,Low,Seattle,South,11:44 AM,Unsolved
+1499,07-06-2023,Arson,High,Houston,North,08:54 AM,Unsolved
